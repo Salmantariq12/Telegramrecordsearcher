@@ -1,0 +1,12 @@
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\TelegramRecordSearcher.csproj.AssemblyReference.cache
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\TelegramRecordSearcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\TelegramRecordSearcher.AssemblyInfoInputs.cache
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\TelegramRecordSearcher.AssemblyInfo.cs
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\TelegramRecordSearcher.csproj.CoreCompileInputs.cache
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\bin\Debug\net8.0\TelegramRecordSearcher.deps.json
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\bin\Debug\net8.0\TelegramRecordSearcher.dll
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\bin\Debug\net8.0\TelegramRecordSearcher.pdb
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\TelegramRecordSearcher.dll
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\refint\TelegramRecordSearcher.dll
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\TelegramRecordSearcher.pdb
+C:\Users\hassan.javed\Documents\TelegramRecordSearcher\obj\Debug\net8.0\ref\TelegramRecordSearcher.dll
